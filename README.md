@@ -13,3 +13,4 @@ Mostly for manipal students by **Sidharth R**, KMC
 * Test if it logs in automatically by running *autologin.bat*
 * Schedule the autologin.bat to run on start-up. Tutorials [here](http://www.thewindowsclub.com/how-to-schedule-batch-file-run-automatically-windows-7).
 * Enjoy!
+* If you are a mac user, ¯\\\_(ツ)_/¯
